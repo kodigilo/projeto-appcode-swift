@@ -10,6 +10,7 @@
 		AF47714721742F7D10CE2674 /* DevSchollApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF47784BD7078F58AB988075 /* DevSchollApp.swift */; };
 		AF4775812641658B6D776C5C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF4776CF3AF1201B0862E688 /* ContentView.swift */; };
 		AF4775D528F38DBCBB56EE11 /* DevSchollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF477349DD25729B3ACD99C3 /* DevSchollTests.swift */; };
+		AF477AA08FD858C20794E987 /* readme.md in Sources */ = {isa = PBXBuildFile; fileRef = AF477B482564CDBCBEC49910 /* readme.md */; };
 		AF477CA3DC0D2B760BD4210B /* DevSchollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF477D3448251DF03C920E29 /* DevSchollUITests.swift */; };
 		AF477D754BD4EFDCD16637F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF4770082664D68EC6EEDF23 /* Preview Assets.xcassets */; };
 		AF477F6933C6AD9DEEF20B91 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF47779D0BEEA95ADCA0D814 /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 		AF4776CF3AF1201B0862E688 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AF47779D0BEEA95ADCA0D814 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF47784BD7078F58AB988075 /* DevSchollApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevSchollApp.swift; sourceTree = "<group>"; };
+		AF477B482564CDBCBEC49910 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		AF477D3448251DF03C920E29 /* DevSchollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevSchollUITests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,6 +90,7 @@
 				AF4776CBB7DC6004EAAB6235 /* DevScholl */,
 				AF47762CF5CC4DC85B54A5F8 /* DevSchollTests */,
 				AF47727CFB3C39D55A53208A /* DevSchollUITests */,
+				AF477B482564CDBCBEC49910 /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -251,6 +254,7 @@
 			files = (
 				AF47714721742F7D10CE2674 /* DevSchollApp.swift in Sources */,
 				AF4775812641658B6D776C5C /* ContentView.swift in Sources */,
+				AF477AA08FD858C20794E987 /* readme.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
